@@ -83,6 +83,40 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Mintlify",
+        "groups": [
+          {
+            "group": "概览",
+            "pages": [
+              "Mintlify/index"
+            ]
+          },
+          {
+            "group": "基础配置",
+            "pages": [
+              "Mintlify/settings",
+              "Mintlify/navigation"
+            ]
+          },
+          {
+            "group": "部署与托管",
+            "pages": [
+              "Mintlify/hosting-deploy",
+              "Mintlify/plans-and-repo-strategy"
+            ]
+          },
+          {
+            "group": "内容与媒体",
+            "pages": [
+              "Mintlify/markdown",
+              "Mintlify/images",
+              "Mintlify/code",
+              "Mintlify/reusable-snippets"
+            ]
+          }
+        ]
       }
     ],
     "global": {
